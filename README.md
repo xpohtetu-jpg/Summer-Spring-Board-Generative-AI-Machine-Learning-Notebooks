@@ -6,6 +6,7 @@ Jupyter notebooks from the Summer Springboard AI Internship Experience, covering
 
 | Notebook | Topic |
 |---|---|
+| [`video-games.ipynb`](notebooks/video-games.ipynb) | Exploratory data analysis of video game sales (`vgsales.csv`) |
 | [`Springboard day 2.ipynb`](notebooks/Springboard%20day%202.ipynb) | Python fundamentals: dictionaries, while loops, and for loops |
 | [`Markel_s Copy of Original Python - Starting_Working Code Images with Pillow.ipynb`](<notebooks/Markel_s Copy of Original Python - Starting_Working Code Images with Pillow.ipynb>) | Image manipulation with the Pillow library: pixel manipulation and custom filters |
 | [`Markel_s Copy ofSpringboard Linear Regression 2026.ipynb`](<notebooks/Markel_s Copy ofSpringboard Linear Regression 2026.ipynb>) | Linear regression on the California Housing dataset using scikit-learn (EDA, train/test split, model evaluation) |
