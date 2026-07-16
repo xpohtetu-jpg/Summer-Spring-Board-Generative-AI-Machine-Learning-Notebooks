@@ -13,6 +13,7 @@ Jupyter notebooks from the Summer Springboard AI Internship Experience, covering
 | [`Markel_s Copy of Original_AIIE2025_MNIST_Fashion_Classification.ipynb`](<notebooks/Markel_s Copy of Original_AIIE2025_MNIST_Fashion_Classification.ipynb>) | Fashion MNIST image classification using PIL, matplotlib, and a neural network |
 | [`Markel_s Copy ofspringboard day7 CNN cat dog kaggle.ipynb`](<notebooks/Markel_s Copy ofspringboard day7 CNN cat dog kaggle.ipynb>) | Binary image classification (cats vs. dogs) using a Convolutional Neural Network (CNN) |
 | [`Copy of 6_rnn_genAI.ipynb`](<notebooks/Copy of 6_rnn_genAI.ipynb>) | Character-level text generation with a recurrent neural network (RNN) in PyTorch, trained on Shakespeare text |
+| [`Project SSB 6_rnn_genAI.ipynb`](<notebooks/Project SSB 6_rnn_genAI.ipynb>) | Alternate implementation of the RNN Shakespeare text generator |
 
 ## Getting Started
 
